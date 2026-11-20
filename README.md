@@ -1,5 +1,3 @@
-# joihealth-hms-showcase
-
 # JoiHealth HMS
 
 A hospital management system with a built-in clinical safety layer, built end to end for a two-branch polyclinic (Lagos and Port Harcourt) and running in production.
